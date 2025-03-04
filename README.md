@@ -11,6 +11,8 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
 </h3>
 
 > This project is in its early stages and is currently under **active development**.
@@ -22,3 +24,9 @@
 ## Updates
 
 > :warning: `v1.0.0` when released will have breaking changes and **will** `require` redeployment.
+
+## Resources
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-next-13.svg)](https://forthebadge.com)
