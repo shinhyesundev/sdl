@@ -1,4 +1,7 @@
-<h1 align="center">Jisoo</h1>
+<div align="center">
+<img src="assets/icon.png"></img>
+</div>
+
 <h3 align="center">
 
 ![GitHub Release](https://img.shields.io/github/v/release/shinhyesundev/sdl)
