@@ -11,8 +11,6 @@
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-
 </h3>
 
 > This project is in its early stages and is currently under **active development**.
